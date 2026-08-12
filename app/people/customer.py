@@ -12,6 +12,6 @@ class Customer:
         movie: str
     ) -> None:
         print(
-            f'{self.name} is '
+            f"{self.name} is "
             f'watching "{movie}".'
         )
